@@ -16,6 +16,7 @@
 
   <depend>ublox_serialization</depend>
   <depend>ublox_msgs</depend>
+  <depend>rtcm_msgs</depend>
   <depend>roscpp</depend>
   <depend>roscpp_serialization</depend>
   <depend>diagnostic_updater</depend>
