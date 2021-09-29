@@ -42,6 +42,9 @@ ros::Subscriber subRTCM;
 
 using namespace ublox_node;
 
+//! How long to wait during I/O reset [s]
+constexpr static int kResetWait = 10;
+  
 //
 // ublox_node namespace
 //
